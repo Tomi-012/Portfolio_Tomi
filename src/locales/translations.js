@@ -39,6 +39,10 @@ const translations = {
                 name: 'Website Portofolio V3',
                 status: 'Latest version of my personal portfolio website with modern design and enhanced user experience.'
             },
+            portfolio_v3_yae: {
+                name: 'Website Portofolio V3 Yae',
+                status: 'Latest version of my personal portfolio website with modern design and enhanced user experience.'
+            },
             list_joki: {
                 name: 'Website List Joki',
                 status: 'This website is created to offer game account maintenance services: daily login, leveling, and weekly events. Safe, fast, and reliable.'
@@ -135,7 +139,11 @@ const translations = {
             },
             portfolio_v3: {
                 name: 'Website Portofolio V3',
-                status: 'Versi terbaru website portofolio pribadi saya dengan desain modern dan pengalaman pengguna yang ditingkatkan.'
+                status: 'Versi terbaru website portofolio pribadi saya dengan desain modern dan pengalaman pengguna yang lebih baik.'
+            },
+            portfolio_v3_yae: {
+                name: 'Website Portofolio V3 Yae',
+                status: 'Versi terbaru website portofolio pribadi saya dengan desain modern dan pengalaman pengguna yang lebih baik.'
             },
             list_joki: {
                 name: 'Website List Joki',
@@ -233,7 +241,11 @@ const translations = {
             },
             portfolio_v3: {
                 name: 'ポートフォリオウェブサイト V3',
-                status: 'モダンなデザインと強化されたユーザーエクスペリエンスを備えた個人ポートフォリオウェブサイトの最新バージョン。'
+                status: 'モダンなデザインと向上したユーザー体験を備えた個人ポートフォリオウェブサイトの最新バージョン。'
+            },
+            portfolio_v3_yae: {
+                name: 'ポートフォリオウェブサイト V3 Yae',
+                status: 'モダンなデザインと向上したユーザー体験を備えた個人ポートフォリオウェブサイトの最新バージョン。'
             },
             list_joki: {
                 name: 'ジョキ・リスト・ウェブサイト',

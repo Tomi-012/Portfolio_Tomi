@@ -35,6 +35,15 @@ export default {
         },
         {
           id: 4,
+          name: t('projects.portfolio_v3_yae.name'),
+          imageUrl: '/img/portofolio-thema-yae.png',
+          status: t('projects.portfolio_v3_yae.status'),
+          tech: 'React, Vite, Tailwind CSS, TypeScript',
+          github: 'https://github.com/Tomi-012',
+          demo: 'https://portofolio-tomi-v3-yae.vercel.app/'
+        },
+        {
+          id: 5,
           name: t('projects.list_joki.name'),
           imageUrl: 'https://masrori.my.id/fto_tmi/List_Joki.png',
           status: t('projects.list_joki.status'),
@@ -43,7 +52,7 @@ export default {
           demo: 'https://list-joki.vercel.app/'
         },
         {
-          id: 5,
+          id: 6,
           name: t('projects.shiraori_joki.name'),
           imageUrl: '/img/web-jasa-joki-v2.png',
           status: t('projects.shiraori_joki.status'),
@@ -52,7 +61,7 @@ export default {
           demo: 'https://web-shiraori-joki-v2.vercel.app/#testimoni'
         },
         {
-          id: 6,
+          id: 7,
           name: t('projects.project_pkm.name'),
           imageUrl: '/img/project-pkm.png',
           status: t('projects.project_pkm.status'),
@@ -61,7 +70,7 @@ export default {
           demo: 'https://project-pkm.vercel.app/'
         },
         {
-          id: 7,
+          id: 8,
           name: t('projects.dashboard_ecommerce.name'),
           imageUrl: 'https://masrori.my.id/fto_tmi/Sumber%20Segar%20Dashboard.png',
           status: t('projects.dashboard_ecommerce.status'),
@@ -70,7 +79,7 @@ export default {
           demo: 'https://sumber-segar.com'
         },
         {
-          id: 8,
+          id: 9,
           name: t('projects.lumichan_ai.name'),
           imageUrl: '/img/lumichan-ai.png',
           status: t('projects.lumichan_ai.status'),
@@ -79,7 +88,7 @@ export default {
           demo: 'https://lumichan-ai.masrori.my.id/'
         },
         {
-          id: 9,
+          id: 10,
           name: t('projects.perpustakaan.name'),
           imageUrl: '/img/perpustakaan.png',
           status: t('projects.perpustakaan.status'),
@@ -88,52 +97,7 @@ export default {
           demo: 'https://perpus.masrori.my.id/'
         },
         {
-          id: 10,
-          name: t('projects.traffic_rnn.name'),
-          imageUrl: '/img/trafic-rnn_e-learning-unpam.png',
-          status: t('projects.traffic_rnn.status'),
-          tech: 'Python, TensorFlow, RNN, React, Vite, Tailwind CSS',
-          github: 'https://github.com/Tomi-012',
-          demo: 'https://traffic-rnn.vercel.app/'
-        },
-        {
           id: 11,
-          name: t('projects.sawitmart.name'),
-          imageUrl: '/img/sawitmart.png',
-          status: t('projects.sawitmart.status'),
-          tech: 'Angular, HTML, Golang, SawitDB, Typescript, Tailwind CSS',
-          github: 'https://github.com/Tomi-012',
-          demo: 'https://sawitmart.masrori.my.id/'
-        },
-        {
-          id: 14,
-          name: t('projects.parfume_lux.name'),
-          imageUrl: '/img/parfume_lux.png',
-          status: t('projects.parfume_lux.status'),
-          tech: 'PHP, MySQL, Tailwind CSS, javaScript',
-          github: 'https://github.com/Tomi-012',
-          demo: 'https://parfume-lux.masrori.my.id/'
-        },
-        {
-          id: 12,
-          name: t('projects.cipta_hospital.name'),
-          imageUrl: 'https://masrori.my.id/fto_tmi/PT.Cipta%20Hospital.png',
-          status: t('projects.cipta_hospital.status'),
-          tech: 'HTML, CSS, JavaScript, Bootstrap',
-          github: 'https://github.com/Tomi-012',
-          demo: 'https://web-rs-pt-cipta-hospital.vercel.app/'
-        },
-        {
-          id: 13,
-          name: t('projects.login_register.name'),
-          imageUrl: '/img/login-register.png',
-          status: t('projects.login_register.status'),
-          tech: 'HTML, JavaScript, PHP, Tailwind CSS',
-          github: 'https://github.com/Tomi-012',
-          demo: 'https://login-register-seven-gules.vercel.app/'
-        },
-        {
-          id: 15,
           name: t('projects.aplikasi_absensi.name'),
           imageUrl: '/img/Aplikasi Absensi Siswa.png',
           status: t('projects.aplikasi_absensi.status'),
@@ -142,7 +106,7 @@ export default {
           demo: 'https://app-absensi.masrori.my.id/'
         },
         {
-          id: 16,
+          id: 12,
           name: t('projects.aplikasi_cbt.name'),
           imageUrl: '/img/Aplikasi CBT Siswa.png',
           status: t('projects.aplikasi_cbt.status'),
@@ -151,13 +115,58 @@ export default {
           demo: 'https://app-cbt.masrori.my.id/'
         },
         {
-          id: 17,
+          id: 13,
           name: t('projects.mangaburn.name'),
           imageUrl: '/img/Homepage Website Mangaburn.png',
           status: t('projects.mangaburn.status'),
           tech: 'Next.js, React, TypeScript, Tailwind CSS, Prisma, MySQL, NextAuth.js',
           github: 'https://github.com/Tomi-012',
           demo: 'https://mangaburn.masrori.my.id/'
+        },
+        {
+          id: 14,
+          name: t('projects.traffic_rnn.name'),
+          imageUrl: '/img/trafic-rnn_e-learning-unpam.png',
+          status: t('projects.traffic_rnn.status'),
+          tech: 'Python, TensorFlow, RNN, React, Vite, Tailwind CSS',
+          github: 'https://github.com/Tomi-012',
+          demo: 'https://traffic-rnn.vercel.app/'
+        },
+        {
+          id: 15,
+          name: t('projects.sawitmart.name'),
+          imageUrl: '/img/sawitmart.png',
+          status: t('projects.sawitmart.status'),
+          tech: 'Angular, HTML, Golang, SawitDB, Typescript, Tailwind CSS',
+          github: 'https://github.com/Tomi-012',
+          demo: 'https://sawitmart.masrori.my.id/'
+        },
+        {
+          id: 16,
+          name: t('projects.parfume_lux.name'),
+          imageUrl: '/img/parfume_lux.png',
+          status: t('projects.parfume_lux.status'),
+          tech: 'PHP, MySQL, Tailwind CSS, javaScript',
+          github: 'https://github.com/Tomi-012',
+          demo: 'https://parfume-lux.masrori.my.id/'
+        },
+        {
+          id: 17,
+          name: t('projects.cipta_hospital.name'),
+          imageUrl: 'https://masrori.my.id/fto_tmi/PT.Cipta%20Hospital.png',
+          status: t('projects.cipta_hospital.status'),
+          tech: 'HTML, CSS, JavaScript, Bootstrap',
+          github: 'https://github.com/Tomi-012',
+          demo: 'https://web-rs-pt-cipta-hospital.vercel.app/'
+        },
+        {
+          id: 18,
+          name: t('projects.login_register.name'),
+          imageUrl: '/img/login-register.png',
+          status: t('projects.login_register.status'),
+          tech: 'HTML, JavaScript, PHP, Tailwind CSS',
+          github: 'https://github.com/Tomi-012',
+          demo: 'https://login-register-seven-gules.vercel.app/'
         }
     ]);
 
