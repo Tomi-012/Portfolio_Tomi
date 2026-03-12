@@ -132,6 +132,33 @@ export default {
           github: 'https://github.com/Tomi-012',
           demo: 'https://login-register-seven-gules.vercel.app/'
         },
+        {
+          id: 15,
+          name: t('projects.aplikasi_absensi.name'),
+          imageUrl: '/img/Aplikasi Absensi Siswa.png',
+          status: t('projects.aplikasi_absensi.status'),
+          tech: 'PHP, Tailwind CSS, MySQL',
+          github: 'https://github.com/Tomi-012',
+          demo: 'https://app-absensi.masrori.my.id/'
+        },
+        {
+          id: 16,
+          name: t('projects.aplikasi_cbt.name'),
+          imageUrl: '/img/Aplikasi CBT Siswa.png',
+          status: t('projects.aplikasi_cbt.status'),
+          tech: 'PHP, Tailwind CSS, MySQL',
+          github: 'https://github.com/Tomi-012',
+          demo: 'https://app-cbt.masrori.my.id/'
+        },
+        {
+          id: 17,
+          name: t('projects.mangaburn.name'),
+          imageUrl: '/img/Homepage Website Mangaburn.png',
+          status: t('projects.mangaburn.status'),
+          tech: 'Next.js, React, TypeScript, Tailwind CSS, Prisma, MySQL, NextAuth.js',
+          github: 'https://github.com/Tomi-012',
+          demo: 'https://mangaburn.masrori.my.id/'
+        }
     ]);
 
     return { items, t };

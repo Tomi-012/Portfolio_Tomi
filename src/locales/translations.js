@@ -82,6 +82,18 @@ const translations = {
             parfume_lux: {
                 name: 'Parfume Lux',
                 status: 'Online perfume shop website with elegant design and complete product catalog features.'
+            },
+            aplikasi_absensi: {
+                name: 'Aplikasi Absensi Siswa',
+                status: 'A web-based student attendance application to facilitate digital student attendance recording with complete features and modern interface.'
+            },
+            aplikasi_cbt: {
+                name: 'Aplikasi CBT Siswa',
+                status: 'A web-based Computer Based Test (CBT) student application for conducting online exams with question management and automatic grading features.'
+            },
+            mangaburn: {
+                name: 'MangaBurn',
+                status: 'Modern manga & comic reading platform with complete features for comic management, bookmarking, reading history, and rating system.'
             }
         }
     },
@@ -168,6 +180,18 @@ const translations = {
             parfume_lux: {
                 name: 'Parfume Lux',
                 status: 'Website toko online parfum dengan desain elegan dan fitur katalog produk yang lengkap.'
+            },
+            aplikasi_absensi: {
+                name: 'Aplikasi Absensi Siswa',
+                status: 'Aplikasi absensi siswa berbasis web untuk memudahkan pencatatan kehadiran siswa secara digital dengan fitur lengkap dan antarmuka modern.'
+            },
+            aplikasi_cbt: {
+                name: 'Aplikasi CBT Siswa',
+                status: 'Aplikasi Computer Based Test (CBT) siswa berbasis web untuk melaksanakan ujian secara online dengan fitur manajemen soal dan penilaian otomatis.'
+            },
+            mangaburn: {
+                name: 'MangaBurn',
+                status: 'Platform baca manga & komik modern dengan fitur lengkap untuk manajemen komik, bookmark, history baca, dan sistem rating.'
             }
         }
     },
@@ -254,6 +278,18 @@ const translations = {
             parfume_lux: {
                 name: 'Parfume Lux',
                 status: 'エレガントなデザインと充実した商品カタログ機能を備えた香水オンラインショップのウェブサイト。'
+            },
+            aplikasi_absensi: {
+                name: 'Aplikasi Absensi Siswa',
+                status: '完全な機能とモダンなインターフェースを備えた、デジタル生徒出席記録を容易にするウェブベースの生徒出席アプリケーションです。'
+            },
+            aplikasi_cbt: {
+                name: 'Aplikasi CBT Siswa',
+                status: '問題管理と自動採点機能を備えた、オンライン試験を実施するためのウェブベースのコンピュータベーステスト（CBT）学生アプリケーションです。'
+            },
+            mangaburn: {
+                name: 'MangaBurn',
+                status: '漫画管理、ブックマーク、閲覧履歴、評価システムを完備したモダンな漫画＆コミック読書プラットフォーム。'
             }
         }
     }
