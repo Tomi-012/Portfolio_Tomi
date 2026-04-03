@@ -125,6 +125,15 @@ export default {
         },
         {
           id: 14,
+          name: t('projects.animeburn.name'),
+          imageUrl: '/img/Homepage Website AnimeBurn.png',
+          status: t('projects.animeburn.status'),
+          tech: 'React, Next.js App Router, Tailwind CSS, Framer Motion, MySQL, Auth.js (NextAuth v5)',
+          github: 'https://github.com/Tomi-012',
+          demo: 'https://animeburn.masrori.my.id'
+        },
+        {
+          id: 15,
           name: t('projects.traffic_rnn.name'),
           imageUrl: '/img/trafic-rnn_e-learning-unpam.png',
           status: t('projects.traffic_rnn.status'),
@@ -133,7 +142,16 @@ export default {
           demo: 'https://traffic-rnn.vercel.app/'
         },
         {
-          id: 15,
+          id: 16,
+          name: t('projects.spk_calculator.name'),
+          imageUrl: '/img/SPK Calculator.png',
+          status: t('projects.spk_calculator.status'),
+          tech: 'HTML, CSS, JavaScript',
+          github: 'https://github.com/Tomi-012',
+          demo: 'https://spk-calculator.vercel.app'
+        },
+        {
+          id: 17,
           name: t('projects.sawitmart.name'),
           imageUrl: '/img/sawitmart.png',
           status: t('projects.sawitmart.status'),
@@ -142,7 +160,7 @@ export default {
           demo: 'https://sawitmart.masrori.my.id/'
         },
         {
-          id: 16,
+          id: 18,
           name: t('projects.parfume_lux.name'),
           imageUrl: '/img/parfume_lux.png',
           status: t('projects.parfume_lux.status'),
@@ -151,7 +169,7 @@ export default {
           demo: 'https://parfume-lux.masrori.my.id/'
         },
         {
-          id: 17,
+          id: 19,
           name: t('projects.cipta_hospital.name'),
           imageUrl: 'https://masrori.my.id/fto_tmi/PT.Cipta%20Hospital.png',
           status: t('projects.cipta_hospital.status'),
@@ -160,7 +178,7 @@ export default {
           demo: 'https://web-rs-pt-cipta-hospital.vercel.app/'
         },
         {
-          id: 18,
+          id: 20,
           name: t('projects.login_register.name'),
           imageUrl: '/img/login-register.png',
           status: t('projects.login_register.status'),

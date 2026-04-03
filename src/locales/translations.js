@@ -71,6 +71,10 @@ const translations = {
                 name: 'Traffic RNN',
                 status: 'Traffic prediction application using Recurrent Neural Network (RNN) for intelligent traffic analysis.'
             },
+            spk_calculator: {
+                name: 'SPK Calculator',
+                status: 'Multi-method Decision Support System calculator with detailed calculation logs.'
+            },
             sawitmart: {
                 name: 'SawitMart',
                 status: 'Web application developed using Angular and Golang with SawitDB.'
@@ -98,6 +102,10 @@ const translations = {
             mangaburn: {
                 name: 'MangaBurn',
                 status: 'Modern manga & comic reading platform with complete features for comic management, bookmarking, reading history, and rating system.'
+            },
+            animeburn: {
+                name: 'AnimeBurn',
+                status: 'Anime streaming platform with complete features like bookmarking, watch history, and download mode.'
             }
         }
     },
@@ -173,6 +181,10 @@ const translations = {
                 name: 'Traffic RNN',
                 status: 'Aplikasi prediksi lalu lintas menggunakan Recurrent Neural Network (RNN) untuk analisis lalu lintas cerdas.'
             },
+            spk_calculator: {
+                name: 'SPK Calculator',
+                status: 'Kalkulator Sistem Pendukung Keputusan multi-metode dengan log perhitungan detail.'
+            },
             sawitmart: {
                 name: 'SawitMart',
                 status: 'Aplikasi web yang dikembangkan menggunakan Angular dan Golang dengan SawitDB.'
@@ -200,6 +212,10 @@ const translations = {
             mangaburn: {
                 name: 'MangaBurn',
                 status: 'Platform baca manga & komik modern dengan fitur lengkap untuk manajemen komik, bookmark, history baca, dan sistem rating.'
+            },
+            animeburn: {
+                name: 'AnimeBurn',
+                status: 'Platform streaming anime dengan fitur lengkap seperti bookmark, riwayat tontonan, dan download mode.'
             }
         }
     },
@@ -275,6 +291,10 @@ const translations = {
                 name: 'Traffic RNN',
                 status: 'インテリジェントな交通分析のためのリカレントニューラルネットワーク（RNN）を使用した交通予測アプリケーション。'
             },
+            spk_calculator: {
+                name: 'SPK Calculator',
+                status: '詳細な計算ログを備えたマルチメソッド意思決定支援システム計算機。'
+            },
             sawitmart: {
                 name: 'SawitMart',
                 status: 'SawitDBを使用したAngularとGolangで開発されたWebアプリケーション。'
@@ -302,6 +322,10 @@ const translations = {
             mangaburn: {
                 name: 'MangaBurn',
                 status: '漫画管理、ブックマーク、閲覧履歴、評価システムを完備したモダンな漫画＆コミック読書プラットフォーム。'
+            },
+            animeburn: {
+                name: 'AnimeBurn',
+                status: 'ブックマーク、視聴履歴、ダウンロードモードなどの完全な機能を備えたアニメストリーミングプラットフォーム。'
             }
         }
     }
