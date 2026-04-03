@@ -83,6 +83,10 @@ const translations = {
                 name: 'Website PT.Cipta Hospital',
                 status: 'I created this website to promote PT. Cipta Hospital, in terms of services, etc. and this is to complete a project for a college assignment.'
             },
+            motion_tabs: {
+                name: 'Motion Tabs',
+                status: 'Interactive navigation menu animation implementation using pure HTML, CSS, and JavaScript.'
+            },
             login_register: {
                 name: 'Login Register',
                 status: 'A responsive Login & Register interface implementation.'
@@ -193,6 +197,10 @@ const translations = {
                 name: 'Website PT.Cipta Hospital',
                 status: 'Saya membuat website ini untuk mempromosikan PT. Cipta Hospital, dalam hal layanan, dll. dan ini untuk melengkapi tugas kuliah.'
             },
+            motion_tabs: {
+                name: 'Motion Tabs',
+                status: 'Implementasi animasi menu navigasi interaktif menggunakan HTML, CSS, dan JavaScript murni.'
+            },
             login_register: {
                 name: 'Login Register',
                 status: 'Implementasi antarmuka Login & Register yang responsif.'
@@ -302,6 +310,10 @@ const translations = {
             cipta_hospital: {
                 name: 'PT. Cipta Hospital ウェブサイト',
                 status: 'PT. Cipta Hospitalのサービスなどを宣伝するために作成しました。これは大学の課題プロジェクトを完了するためのものです。'
+            },
+            motion_tabs: {
+                name: 'Motion Tabs',
+                status: '純粋なHTML、CSS、JavaScriptを使用したインタラクティブなナビゲーションメニューアニメーションの実装。'
             },
             login_register: {
                 name: 'ログイン・登録',

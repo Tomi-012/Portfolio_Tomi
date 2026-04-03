@@ -12,7 +12,7 @@ export default {
           imageUrl: 'https://masrori.my.id/fto_tmi/Portfolio_Tomi.png',
           status: t('projects.personal_website.status'),
           tech: 'VueJS, HTML, CSS, javaScript',
-          github: 'https://github.com/Tomi-012',
+          github: 'https://github.com/Tomi-012/Portfolio_Tomi',
           demo: 'https://portfolio-tomi.vercel.app/'
         },
         {
@@ -21,7 +21,7 @@ export default {
           imageUrl: 'https://masrori.my.id/fto_tmi/portofolio-v2.png',
           status: t('projects.portfolio_v2.status'),
           tech: 'React, Vite, Tailwind CSS',
-          github: 'https://github.com/Tomi-012',
+          github: 'https://github.com/Tomi-012/Portofolio_Tomi-v2',
           demo: 'https://portofolio-tomi-v2.vercel.app/'
         },
         {
@@ -66,7 +66,7 @@ export default {
           imageUrl: '/img/project-pkm.png',
           status: t('projects.project_pkm.status'),
           tech: 'React, Next.js, Tailwind CSS, TypeScript',
-          github: 'https://github.com/Tomi-012',
+          github: 'https://github.com/Tomi-012/Project-PKM',
           demo: 'https://project-pkm.vercel.app/'
         },
         {
@@ -174,16 +174,25 @@ export default {
           imageUrl: 'https://masrori.my.id/fto_tmi/PT.Cipta%20Hospital.png',
           status: t('projects.cipta_hospital.status'),
           tech: 'HTML, CSS, JavaScript, Bootstrap',
-          github: 'https://github.com/Tomi-012',
+          github: 'https://github.com/Tomi-012/Web_Rs.PT.Cipta-Hospital',
           demo: 'https://web-rs-pt-cipta-hospital.vercel.app/'
         },
         {
           id: 20,
+          name: t('projects.motion_tabs.name'),
+          imageUrl: '/img/Motion-tabs.png',
+          status: t('projects.motion_tabs.status'),
+          tech: 'HTML, CSS, JavaScript',
+          github: 'https://github.com/Tomi-012/motion-tabs-nav',
+          demo: 'https://motion-tabs-nav.vercel.app'
+        },
+        {
+          id: 21,
           name: t('projects.login_register.name'),
           imageUrl: '/img/login-register.png',
           status: t('projects.login_register.status'),
           tech: 'HTML, JavaScript, PHP, Tailwind CSS',
-          github: 'https://github.com/Tomi-012',
+          github: 'https://github.com/Tomi-012/Login-Register',
           demo: 'https://login-register-seven-gules.vercel.app/'
         }
     ]);
